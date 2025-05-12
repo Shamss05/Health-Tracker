@@ -1,17 +1,22 @@
 # health_app
 
-A new Flutter project.
+📁 Project Structure
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/428a5033-2c83-45d2-8a67-650ba5f93ee1)
 
-This project is a starting point for a Flutter application.
+📦 Dependencies
+The project uses the following packages:
 
-A few resources to get you started if this is your first Flutter project:
+hive: Lightweight and blazing fast key-value database for Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+hive_flutter: Extension for Hive to make it Flutter-friendly
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Health-Tracker" 
+fl_chart: A powerful Flutter chart library for beautiful charts
+
+🎨 UI Design
+
+![1](https://github.com/user-attachments/assets/c6bbf761-5def-41e2-aaf2-c434761d953f)
+
+![2](https://github.com/user-attachments/assets/aa79dd69-57c4-44c0-9fe2-39e698a13d6b)
+
+![3](https://github.com/user-attachments/assets/d981b1b3-cdd0-45c5-a9e6-4c633970bbd2)
